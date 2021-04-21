@@ -34,8 +34,8 @@ In the retrospective meeting, the team has a discussion about those results.
 
 | Day           | George           | Manuel         | Jacobo         | Esteban        | Pablo     |    
 | ------------- | -------------    | -------------  | -------------  | -------------  | -------------  | 
-| Day 1         | :smile:          |                |   :smiley:     |                |                |  
-| Day 2         |                  |    :smile:     |                |                |                |  
+| Day 1         | :smile:          |                |   :smiley:     |                |     :smiley:   |  
+| Day 2         |                  |    :smile:     |                |                | :neutral_face:  |  
 | Day 3         |                  |    :worried:   |                |                |                |  
 | Day 4         |  :neutral_face:  |                |                |                |                |   
 ...
