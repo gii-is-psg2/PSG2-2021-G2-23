@@ -32,10 +32,10 @@ In the retrospective meeting, the team has a discussion about those results.
 
 ## Sprint Template
 
-| Day           | George    | Manuel  | Jacobo     | Esteban    | Pablo     |    
-| ------------- | ------------- | -------------  | -------------  | -------------  | -------------  | 
-| Day 1         | :smile:        |                |                |                |                |  
-| Day 2         |               |    :smile:            |                |                |                |  
-| Day 3         |               |    :worried:            |                |                |                |  
-| Day 4         |  :neutral_face:             |               |                |                |                |   
+| Day           | George           | Manuel         | Jacobo         | Esteban        | Pablo     |    
+| ------------- | -------------    | -------------  | -------------  | -------------  | -------------  | 
+| Day 1         | :smile:          |                |   :smiley:     |                |                |  
+| Day 2         |                  |    :smile:     |                |                |                |  
+| Day 3         |                  |    :worried:   |                |                |                |  
+| Day 4         |  :neutral_face:  |                |                |                |                |   
 ...
