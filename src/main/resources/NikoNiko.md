@@ -37,5 +37,5 @@ In the retrospective meeting, the team has a discussion about those results.
 | Day 1         |  :smile:         |                |   :smiley:     |   :smiley:     |     :smiley:    |  
 | Day 2         |  :smile:         |                |                | :neutral_face: | :neutral_face:  |  
 | Day 3         |                  |                |                |                |                 |  
-| 23-04         | :neutral_fase:   |  :smiley:      |                |                |                 |   
+| 23-04         | :neutral_face:   |  :smiley:      |                |                |                 |   
 
