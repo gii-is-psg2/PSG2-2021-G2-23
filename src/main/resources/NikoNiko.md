@@ -38,6 +38,6 @@ In the retrospective meeting, the team has a discussion about those results.
 | Day 2         |  :smile:         |                |                | :neutral_face: | :neutral_face:  |  
 | Day 3         |                  |                |                |                |                 |  
 | 23-04         | :neutral_face:   |  :smiley:      |                |   :smiley:     |                 |  
-| 28-04         |                  |                |                |                |     :smiley:    |  
-| 29-04         |                  |                |                |   :smiley:     |     :smiley:    |  
-
+| 28-04         |  :smiley:        |                |                |                |     :smiley:    |  
+| 29-04         |  :smiley:        |                |                |   :smiley:     |     :smiley:    |  
+| 30-04         |  :smiley:        |                |                |                |                 |  
