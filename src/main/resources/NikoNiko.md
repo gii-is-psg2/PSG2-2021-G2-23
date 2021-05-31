@@ -46,14 +46,21 @@ In the retrospective meeting, the team has a discussion about those results.
 | 29-04         |  :smiley:        |                |   :smiley:     |   :smiley:     |     :smiley:    |  
 | 30-04         |  :smiley:        |                |                |   :smiley:     |    :smiley:     |  
 | 02-05         |                  | :neutral_face: |                |                |                 |  
-| 03-05         |                  | :worried:      |                |     :smiley:   |                 |  
-| 07-05         |                  |                | :neutral_face: |                |     :smiley:    |  
+| 03-05         |      :smiley:    | :worried:      |                |     :smiley:   |                 |  
+| 07-05         |     :smiley:     |                | :neutral_face: |                |     :smiley:    |  
 | 09-05         |                  |                |   :smiley:     |                |     :smiley:    | 
-| 10-05         |                  | :neutral_face: |   :smiley:     |                |     :smiley:    | 
-| 12-05         |                  |                | :neutral_face: |                |                 | 
-| 14-05         |                  | :smiley:       | :neutral_face: |                |                 | 
-| 18-05         |                  |                | :neutral_face: |                |                 | 
-| 21-05         |                  |                |   :smiley:     |                |     :smiley:    | 
-| 25-05         |                  |                |   :smiley:     |                |                 | 
-| 25-05         |                  |                |                |                |     :smiley:    | 
+| 10-05         |    :smiley:      | :neutral_face: |   :smiley:     |                |     :smiley:    | 
+| 12-05         |     :smiley:     |                | :neutral_face: |                |                 | 
+| 14-05         |      :smiley:    | :smiley:       | :neutral_face: |                |                 | 
+| 18-05         |      :smiley:    |                | :neutral_face: |                |                 | 
+| 20-05         |                  |                |   :smiley:     |                |     :smiley:    | 
+| 21-05         |     :smiley:     |    :smiley:    |                |   :smiley:     |                 | 
+| 22-05         |                  |    :smiley:    |                |                |                 | 
+| 23-05         |                  |    :smiley:    |                |                |                 | 
+| 24-05         |                  |                |                |    :smiley:    |                 | 
+| 25-05         |                  |                |   :smiley:     |    :smiley:    |                 | 
+| 28-05         |                  |    :smiley:    |                |                |     :smiley:    | 
+| 29-05         |    :smiley:      |                |                |                |    :smiley:     | 
+| 30-05         |                  |    :smiley:    | :neutral_face  |   :smiley:     |                 | 
+| 31-05         |    :smiley:      |     :smiley:   |    :smiley:    |   :smiley:     |     :smiley:    | 
 
