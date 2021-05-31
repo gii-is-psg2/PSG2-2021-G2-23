@@ -51,8 +51,9 @@ In the retrospective meeting, the team has a discussion about those results.
 | 09-05         |                  |                |   :smiley:     |                |     :smiley:    | 
 | 10-05         |    :smiley:      | :neutral_face: |   :smiley:     |                |     :smiley:    | 
 | 12-05         |     :smiley:     |                | :neutral_face: |                |                 | 
-| 14-05         |      :smiley:    | :smiley:       | :neutral_face: |                |                 | 
+| 14-05         |      :smiley:    | :smiley:       | :neutral_face: |                |      :smiley:   | 
 | 18-05         |      :smiley:    |                | :neutral_face: |                |                 | 
+| 17-05         |                  |                |                |                |      :smiley:   | 
 | 20-05         |                  |                |   :smiley:     |                |     :smiley:    | 
 | 21-05         |     :smiley:     |    :smiley:    |                |   :smiley:     |                 | 
 | 22-05         |                  |    :smiley:    |                |                |                 | 
